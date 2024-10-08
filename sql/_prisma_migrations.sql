@@ -1,0 +1,1 @@
+INSERT INTO public._prisma_migrations (id, checksum, finished_at, migration_name, logs, rolled_back_at, started_at, applied_steps_count) VALUES ('c6f2d375-1263-45d4-a605-c12373785713', '377c850a7eface0583c386ac58bce667cb2f17a6370fda05687cb4da414f0fcd', '2024-10-05 08:37:39.920630 +00:00', '20241005083739_dev', null, null, '2024-10-05 08:37:39.887273 +00:00', 1);
